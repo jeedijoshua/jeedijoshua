@@ -143,7 +143,7 @@ Building a scalable, full-stack foundation for product experimentation.
 `React` `TypeScript` `Node.js`
 
 **Links**
-[📂 Repository](https://github.com/jeedijoshua-art/Aximos)
+[📂 Repository](https://github.com/jeedijoshua-art/Aximos) | [🌐 Live Demo](https://axiomos-sand.vercel.app/)
 </td>
 </tr>
 <tr>
@@ -216,6 +216,26 @@ Organizing and interacting with complex state data requires robust frontend arch
 [📂 Repository](https://github.com/jeedijoshua-art/memora) | [🌐 Live Demo](https://memora-omega-blush.vercel.app)
 </td>
 <td width="50%" valign="top">
+
+### 💼 CareerOS
+
+**Product**
+A career-focused AI and productivity platform.
+
+**Problem**
+Managing career workflows, resume building, and career preparation lacks a unified, intelligent system.
+
+**Key Features**
+- AI-assisted career workflows
+- Resume building & generation
+- Structured user workflows
+- Career preparation tools
+
+**Stack**
+`Next.js` `React` `TypeScript`
+
+**Links**
+[📂 Repository](https://github.com/jeedijoshua-art/careeros) | [🌐 Live Demo](https://careeros-six.vercel.app)
 </td>
 </tr>
 </table>
